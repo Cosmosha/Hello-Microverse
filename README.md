@@ -151,9 +151,9 @@ Example command:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/cosmosha)
-- Twitter: [@twitterhandle](https://twitter.com/hagancosmos)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/cosmoshagan)
+- GitHub: [@cosmosha](https://github.com/cosmosha)
+- Twitter: [@hagancosmos](https://twitter.com/hagancosmos)
+- LinkedIn: [cosmos hagan](https://linkedin.com/in/cosmoshagan)
 
 
 
@@ -171,21 +171,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
