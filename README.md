@@ -48,8 +48,6 @@ REQUIRED SECTIONS:
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -66,8 +64,6 @@ REQUIRED SECTIONS:
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -101,7 +97,7 @@ In order to run this project you need:
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse Inc.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
