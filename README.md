@@ -40,8 +40,6 @@ REQUIRED SECTIONS:
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Hello Microverse]** is a simple project that says hello-microverse!
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -86,7 +84,6 @@ In order to run this project you need:
 - LinkedIn: [cosmos hagan](https://linkedin.com/in/cosmoshagan)
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -94,8 +91,6 @@ In order to run this project you need:
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse Inc.
 
