@@ -10,10 +10,20 @@ REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
   - Built With
+  - Live Demo
+- Getting Started
 - Authors
+- Future Features
+- Contributing
+- Show your support
 - Acknowledgements
 - License
 
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
@@ -32,13 +42,14 @@ REQUIRED SECTIONS:
   - [🛠 Built With](#Html-Css)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#Cosmos Hagan)
-- [⭐️ Show your support](#Microverse)
 - [🙏 Acknowledgements](#Microverse)
 - [📝 License](#MIT)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
+
+> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse]** is a simple project that says hello-microverse!
 
@@ -49,13 +60,12 @@ REQUIRED SECTIONS:
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://html3.org/">HTML 5</a></li>
+    <li><a href="https://w3.org/">HTML 5</a></li>
   </ul>
     <ul>
-    <li><a href="https://css.com/">CSS 3</a></li>
+    <li><a href="https://w3.org/">CSS 3</a></li>
   </ul>
 </details>
-
 
 
 
@@ -68,6 +78,19 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+A broswers
+
+### Setup
+
+Clone this repository to your desired folder:
+Extract the downloaded folder
+
+
+### Usage
+
+To run the project, execute the following command:
+run the index.html file in your browser
+
 
 
 
@@ -77,12 +100,23 @@ In order to run this project you need:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@cosmosha](https://github.com/cosmosha)
-- Twitter: [@hagancosmos](https://twitter.com/hagancosmos)
+- GitHub: [@cosmosha](https://github.com/githubhandle)
+- Twitter: [@hagancosmos](https://twitter.com/twitterhandle)
 - LinkedIn: [cosmos hagan](https://linkedin.com/in/cosmoshagan)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,6 +125,8 @@ In order to run this project you need:
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse Inc.
 
