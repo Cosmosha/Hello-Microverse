@@ -99,7 +99,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - A Web Browser is required
-- Winrar or any extration app
+- Winrar or any extraction app
 
 
 ### Setup
@@ -181,7 +181,6 @@ If you like this project, mention or recommend us on github.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse Success Team...
 
