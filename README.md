@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="log.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Hello Microverse Project</b></h3>
